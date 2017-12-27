@@ -1,0 +1,128 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{none/global/}
+  \entry{carlton2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Carlton},
+         familyi={C\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{CJ1}
+    \strng{fullhash}{CJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{title}{Marine Propellers and Propulsion}
+    \verb{url}
+    \verb http://www.nuceng.ca/br_space/2017-09_4d03_6d03/misc_files/xenon_pois
+    \verb oning.pdf
+    \endverb
+    \field{year}{2007}
+  \endentry
+
+  \entry{WNA2017}{article}{}
+    \list{publisher}{1}{%
+      {World Nuclear Association}%
+    }
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{title}{Nuclear Powered Ships}
+    \verb{url}
+    \verb http://www.world-nuclear.org/information-library/non-power-nuclear-ap
+    \verb plications/transport/nuclear-powered-ships.aspx#ECSArticleLink0
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{patrick2012}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PR}{%
+         family={Patrick},
+         familyi={P\bibinitperiod},
+         given={Rex},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Asia-Pacific Defence Reporter}%
+    }
+    \strng{namehash}{PR1}
+    \strng{fullhash}{PR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{title}{The Driving Factor in the SEA 1000 choice}
+    \verb{url}
+    \verb https://corporate.siemens.com.au/content/dam/internet/siemens-com-au/
+    \verb root/aunz-defence-solutions/apdr-october-2015-issue-future-submarine.
+    \verb pdf
+    \endverb
+    \field{month}{10}
+    \field{year}{2015}
+  \endentry
+
+  \entry{WNA2009}{article}{}
+    \list{publisher}{1}{%
+      {World Nuclear Association}%
+    }
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{title}{Chernobyl Accident Appendix 1}
+    \verb{url}
+    \verb http://www.world-nuclear.org/information-library/safety-and-security/
+    \verb safety-of-plants/appendices/chernobyl-accident-appendix-1-sequence-of
+    \verb -events.aspx
+    \endverb
+    \field{year}{2009}
+  \endentry
+
+  \entry{garland2005}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GB}{%
+         family={Garland},
+         familyi={G\bibinitperiod},
+         given={Bill},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nuclear Engineering (Originally from McMaster University)}%
+    }
+    \strng{namehash}{GB1}
+    \strng{fullhash}{GB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{title}{Elementary Physics of Reactor Control Module - Fission
+  Product Poisoning}
+    \verb{url}
+    \verb http://www.nuceng.ca/br_space/2017-09_4d03_6d03/misc_files/xenon_pois
+    \verb oning.pdf
+    \endverb
+    \field{volume}{3}
+    \field{year}{2005}
+  \endentry
+\endsortlist
+\endinput
